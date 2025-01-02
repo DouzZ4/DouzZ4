@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @DouzZ4
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning Html, Css, SQL, etc.
+- 🌏 From Colombia
+- 👽 Spanish/English
 - 📫 How to reach me Gmail angeleduardomen@gmail.com
 
 <!---
